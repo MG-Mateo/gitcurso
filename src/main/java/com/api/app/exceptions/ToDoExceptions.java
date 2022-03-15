@@ -13,5 +13,6 @@ public class ToDoExceptions extends RuntimeException {
         super(message);
         this.message = message;
         this.httpStatus = httpStatus;
+        //Hola que tal
     }
 }
